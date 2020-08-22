@@ -9,7 +9,7 @@
 
 #include <Arduino.h>
 
-class Softencode-ISD1820 {
+class Softencode_ISD1820 {
   public:
     void setPin(int REC, int PLAY_E, int PLAY_L， int MIC, int MICREF, int AGC, int SPa, int SPb);
 }
